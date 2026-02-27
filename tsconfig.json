@@ -1,0 +1,7 @@
+{
+  "name": "Myanmar Voice Scribe",
+  "description": "A sophisticated real-time Myanmar speech-to-text transcriber and editor that uses Gemini Live API for precision and AI-powered refinement for natural language flow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
